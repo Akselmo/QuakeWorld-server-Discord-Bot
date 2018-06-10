@@ -21,7 +21,7 @@ To use the bot, user must have role called `Quakemod` and type `!qserver` in any
 
 The role name can be changed from the code directly and the command aswell, if you wish to do so.
 
-For server IP and Port, look for "QUAKESERVERIP" and "QUAKESERVERPORT" and change them to match your Quake server IP and Port.
+For server IP and Port, look for `QUAKESERVERIP` and `QUAKESERVERPORT` in the code and change them to match your Quake server IP and Port.
 
 Also add your server IP and Port to "serveripfull" variable.
 
