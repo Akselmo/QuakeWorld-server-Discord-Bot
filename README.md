@@ -1,5 +1,5 @@
 # Node.js Discord QuakeServerLookup Bot
-A simple Node.js bot that checks specific QuakeWorld server and posts information of it to Discord server it is in.
+A simple Node.js bot that checks specific QuakeWorld server and posts information of it to Discord server it is in. It's not the prettiest code ever, but maybe it can be useful to someone and work as a base, if nothing else. :)
 
 If there are players in the server, it'll look like this:
 
