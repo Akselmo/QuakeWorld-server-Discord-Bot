@@ -23,7 +23,7 @@ The role name can be changed from the code directly and the command aswell, if y
 
 For server IP and Port, look for `QUAKESERVERIP` and `QUAKESERVERPORT` in the code and change them to match your Quake server IP and Port.
 
-Also add your server IP and Port to "serveripfull" variable.
+Also add your server IP and Port to `serveripfull` variable.
 
 That's it really!
 
